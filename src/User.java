@@ -1,5 +1,3 @@
-package model;
-
 import java.io.Serializable;
 
 /**
@@ -49,4 +47,4 @@ public class User implements Serializable {
      * @return the password
      */
     public String getPassword() { return password; }
-}
+} 

@@ -1,5 +1,3 @@
-package model;
-
 import java.io.Serializable;
 
 /**
@@ -98,4 +96,4 @@ public class Asset implements Serializable {
     public String toString() {
         return "Asset ID: " + id + " | Type: " + type + " | Value: " + value;
     }
-}
+} 

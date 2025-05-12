@@ -1,9 +1,6 @@
-package storage;
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
-import model.User;
 
 /**
  * Manages the persistence of user data using Java serialization.

@@ -1,9 +1,4 @@
 import java.util.Scanner;
-import logic.ComplianceChecker;
-import model.Asset;
-import model.User;
-import storage.AssetStorage;
-import storage.UserStorage;
 
 /**
  * The main application class for the Investment Console Application.

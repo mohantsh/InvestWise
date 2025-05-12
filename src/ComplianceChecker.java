@@ -1,7 +1,4 @@
-package logic;
-
 import java.util.*;
-import model.Asset;
 
 /**
  * Provides compliance checking functionality for investment portfolios.
@@ -52,4 +49,4 @@ public class ComplianceChecker {
 
         return results;
     }
-}
+} 

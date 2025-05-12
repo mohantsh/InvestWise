@@ -1,9 +1,6 @@
-package storage;
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
-import model.Asset;
 
 /**
  * Manages the persistence of asset data using Java serialization.
